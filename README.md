@@ -8,3 +8,4 @@ This project extends on this concept to analyze the earth satellite and sociolog
 * https://www.planet.com/docs/api-quickstart-examples/step-1-search/
 * https://www.planet.com/docs/api-quickstart-examples/step-2-download/
 * https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/discussion
+* https://github.com/brendanv/nasa-api 
