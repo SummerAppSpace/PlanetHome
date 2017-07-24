@@ -5,6 +5,7 @@
 This project extends on this concept to analyze the earth satellite and sociological data to come up with new story to tell for social good. 
 ## Resources
 * https://2017.spaceappschallenge.org/challenges/our-ecological-neighborhood/our-planet-our-home/details
+* https://planetlabs.github.io/planet-client-python/index.html
 * https://www.planet.com/docs/api-quickstart-examples/step-1-search/
 * https://www.planet.com/docs/api-quickstart-examples/step-2-download/
 * https://github.com/brendanv/nasa-api 
