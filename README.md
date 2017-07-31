@@ -1,7 +1,7 @@
 # What it Does
 ### Carbon_Monoxide_Compared_to_Non-Fire_Related_Incidents.ipynb: 
 > This code begins by downloading an image from NASA's gibs tool measuring carbon monoxide in North America and getting data from the instrument.  The program then counts how many pixels are red (indicating carbon monoxide) for a given date, and gives a ratio of pixels indicating carbon monoxide to the total number of pixels in th region.  
-> An yearly average carbon monoxide ratio is calculated and plotted with respect to years.  
+> A yearly average carbon monoxide ratio is calculated and plotted with respect to years.  
 > The seccond graph is a double-axis plot that compares the yearly average carbon monoxide ratio over time with the number carbon monoxide incidents. 
 
 ### aerosol images.ipynb
