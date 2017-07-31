@@ -1,14 +1,20 @@
-# How to Use
-
-
-
 # What it Does
 ### Carbon_Monoxide_Compared_to_Non-Fire_Related_Incidents.ipynb: 
 > This code begins by downloading an image from NASA's gibs tool measuring carbon monoxide in North America and getting data from the instrument.  The program then counts how many pixels are red (indicating carbon monoxide) for a given date, and gives a ratio of pixels indicating carbon monoxide to the total number of pixels in th region.  
 > An yearly average carbon monoxide ratio is calculated and plotted with respect to years.  
 > The seccond graph is a double-axis plot that compares the yearly average carbon monoxide ratio over time with the number carbon monoxide incidents. 
 
+### aerosol images.ipynb
+> This code is similar to the carbon monoxide code in that it uses NASA's gibs tools to measure Aerosol levels.  It calculates the aerosol ratios the same way.  It also shows images from the NASA instrument.  
 
+### eMission Control 
+> This includes dates and yearly rates (percent of entire population) for asthma (by region in the US) and COPD (entire US)
+
+### Data Plot.ipynb
+>This code is connected to the aerosol images data.  It uses the average yearly aerosol ratios and plots them against time.  It plots this with the yearly asthma rates against time for comparison. It also plots aerosol rations against COPD rates.  
+
+### Corrlation 
+> This code calculates all of the corrlation factors for asthma and for COPD
 
 
 # PlanetHome
